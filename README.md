@@ -58,3 +58,15 @@ Advanced client-side assistant for **Rivals** on Roblox with target player detec
 | **Gear icon** | Open/close settings panel     |
 
 ## Requirements / Compatibility
+
+Works best with most popular Roblox exploits that support:
+- `request` / `syn.request` / `http_request`
+- `writefile` / `readfile`
+- Full LuaU support
+
+Tested on: potassium seliware
+
+
+Credits
+Made with love by panda 🐼
+UI/animations inspired by modern premium scripts
